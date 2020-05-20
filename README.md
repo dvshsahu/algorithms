@@ -1,1 +1,2 @@
-"# algorithms" 
+This is the repo for algorihms and data structures based that are generally used in software development.
+The programming langauage for all algorithms and data structures is c++ as it is pretty fast and contains decent set of stl library functions
